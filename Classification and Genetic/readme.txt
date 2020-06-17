@@ -1,0 +1,1 @@
+Notebooks used for genetic algorithms and basic classification of cifar10
